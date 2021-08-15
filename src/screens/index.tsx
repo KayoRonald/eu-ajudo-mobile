@@ -1,5 +1,5 @@
 import React from 'react';
-import { SafeAreaView, Text, Image, TouchableOpacity, StyleSheet, Dimensions, View } from 'react-native';
+import { SafeAreaView, Text, Image, TouchableOpacity, View } from 'react-native';
 import { Feather } from '@expo/vector-icons';
 // import { useNavigation } from '@react-navigation/core';
 
@@ -13,7 +13,7 @@ export function Welcome() {
     <SafeAreaView style={styles.container}>
       <View style={styles.wrapper}>
         <Text style={styles.title}>
-          Venhar Cadastrar{'\n'}
+          Venhar cadastrar{'\n'}
           pontos de forma fácil
         </Text>
 

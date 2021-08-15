@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <img src="assets/undraw_Active_support_re_b7sj.png" alt="Eu Ajudo" width="450"/>
+    <img src="assets/undraw_referral_4ki4.svg" alt="Eu Ajudo" width="450"/>
 </p>
 
 <p align="center"><b>Eu ajudo</b> | Venha ajudar sua comunidade! 💜
